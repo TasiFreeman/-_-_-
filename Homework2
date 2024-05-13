@@ -1,0 +1,8 @@
+name = "Anastasia"
+print('Name:', name)
+age = (int ('30'))
+print('Age:', age)
+new_age = (int (age)) + 1
+print('New age:', new_age)
+is_student = "True"
+print("Is student:", is_student)
